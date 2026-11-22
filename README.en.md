@@ -40,6 +40,7 @@
 2. Unzip it anywhere you like (for example `D:\Apps\Velsub`).
 3. Run `Velsub.exe`. Nothing else needs to be installed.
 4. To open videos with Velsub by double-clicking them: Settings → File associations.
+5. To update: close Velsub and overwrite the files in your existing folder with the ones from the new zip. Your settings and resume history are kept.
 
 ### If Windows shows "Windows protected your PC" on the first run
 
